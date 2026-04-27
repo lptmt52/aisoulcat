@@ -1,9 +1,11 @@
 # 欢迎使用 aisoulcat
 
 
-**aisoulcat** 是一个开源的 AI 编程助手，致力于提供 Cursor 的开源替代方案。本项目是对 [Void](https://github.com/voideditor/void) 的二次开发。
+**aisoulcat** 是一个开源的 AI 编程助手，本项目是对 [Void](https://github.com/voideditor/void) 的二次开发。
 
-在您的代码库中使用 AI 代理，检查并可视化变更，并可以在本地带入任何模型或主机。aisoulcat 直接将消息发送给提供商，而不会保留您的数据。
+在您的代码库中使用 AI 代理，检查并可视化变更，并可以在本地带入任何模型或主机。
+
+aisoulcat 直接将消息发送给提供商，而不会保留您的数据。
 
 本仓库包含 aisoulcat 的完整源代码。如果您是新用户，欢迎加入！
 
